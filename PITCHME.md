@@ -22,21 +22,23 @@ The Ghost in the Field, 2009
 
 Experiments in Field Drawing, 2009
 
-[](https://player.vimeo.com/video/1857683)
+<iframe src="https://player.vimeo.com/video/1857683" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-[](https://player.vimeo.com/video/862224)
+---
+
+<iframe src="https://player.vimeo.com/video/862224" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ---
 
 Nearness (2009)
 
-[](https://player.vimeo.com/video/6588461)
+<iframe src="https://player.vimeo.com/video/6588461" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ---
 
 Light Wifi Painting, (2011)
 
-[](https://player.vimeo.com/video/20412632)
+<iframe src="https://player.vimeo.com/video/20412632" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 NOTE: Other projects inspired by Light Wifi Painting
 http://yourban.no/2012/06/06/projects-inspired-by-immaterials-light-painting-wifi/
@@ -46,13 +48,13 @@ https://www.onformative.com/work/immaterials/
 
 Robot Readable World (2011)
 
-[](https://player.vimeo.com/video/36239715)
+<iframe src="https://player.vimeo.com/video/36239715" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ---
 
 A product prototype done with Touch studio
 
-[](https://player.vimeo.com/video/6602990)
+<iframe src="https://player.vimeo.com/video/6602990" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ---
 
