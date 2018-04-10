@@ -8,7 +8,7 @@ http://www.elasticspace.com/2013/03/no-to-no-ui
 
 ---
 
-Seamless / Seamful
+### Seamless vs. Seamful
 
 NOTE: seamlessness can be seen in WiFi or the iPod
 
