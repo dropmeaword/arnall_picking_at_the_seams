@@ -1,5 +1,5 @@
-The work of Timo Arnall
-picking at the seams
+## Picking at the seams
+#### the work of Timo Arnall
 
 ---
 
